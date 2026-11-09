@@ -1,0 +1,37 @@
+EMPLOYMENT AGREEMENT
+
+This Employment Agreement ("Agreement") is made on 01-07-2026 between Nova Tech Solutions Pvt. Ltd., having its office in Chennai, Tamil Nadu ("Employer"), and Mr. Arjun Kumar ("Employee").
+
+1. PURPOSE
+The Employer hereby employs the Employee as a Software Engineer, and the Employee accepts such employment, on the terms and conditions set out in this Agreement.
+
+2. TERM
+This Agreement commences on 01-07-2026 and continues for a period of twelve (12) months, ending on 30-06-2027, unless terminated earlier in accordance with Clause 6.
+
+3. DUTIES
+The Employee shall perform all duties assigned by the Employer, including designing, developing and testing software, and shall devote full working time to the Employer's business.
+
+4. COMPENSATION
+The Employer shall pay the Employee a monthly salary of Rs. 50,000, payable on or before the last working day of each month, subject to applicable tax deductions.
+
+5. CONFIDENTIALITY
+The Employee shall maintain strict confidentiality regarding all proprietary information obtained during the period of employment and shall not disclose such information to any third party without prior written authorization from the Employer. This obligation survives termination for a period of two (2) years.
+
+6. TERMINATION
+Either party may terminate this Agreement by giving thirty (30) days' written notice to the other party. The Employer may terminate immediately for gross misconduct or material breach of this Agreement.
+
+7. INTELLECTUAL PROPERTY
+All software, inventions and work product created by the Employee in the course of employment shall be the sole property of the Employer.
+
+8. LIABILITY
+The Employee shall be liable for direct losses caused to the Employer by wilful negligence or breach of confidentiality. The Employer's liability is limited to unpaid salary due under this Agreement.
+
+9. DISPUTE RESOLUTION
+Any dispute arising out of this Agreement shall first be referred to mediation. If unresolved within thirty (30) days, the dispute shall be settled by arbitration in Chennai.
+
+10. GOVERNING LAW
+This Agreement shall be governed by the laws of India and the courts of Chennai shall have jurisdiction.
+
+IN WITNESS WHEREOF, the parties have signed this Agreement on the date first written above.
+
+Employer: Nova Tech Solutions Pvt. Ltd.        Employee: Arjun Kumar
